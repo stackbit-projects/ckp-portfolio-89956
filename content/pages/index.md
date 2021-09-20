@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Chris Peterson | Portfolio
     image: /images/53037AFD-E4A9-4F70-A0F6-E9EFE8A49F31.jpeg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
